@@ -1,2 +1,6 @@
 First
+<<<<<<< HEAD
 Hello
+=======
+change
+>>>>>>> af4fc05 (Change into dev)
